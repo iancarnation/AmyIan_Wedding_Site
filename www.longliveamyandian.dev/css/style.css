@@ -889,6 +889,7 @@
 	{
 		position: relative;
 		background: #fff;
+		font-size: 1.3em; /*added*/
 	}
 	
 	.homepage #content
@@ -986,7 +987,7 @@
 	{
 		position: relative;
 		text-align: center;
-		background: url(../images/header.jpg) no-repeat center center;
+		background: url(../images/da_grassie_knol.jpg) no-repeat center center;
 		background-attachment: fixed;
 		background-size: cover;
 	}
@@ -1004,8 +1005,8 @@
 	
 		#tweet section
 		{
-			border-top: 1px solid;
-			border-bottom: 1px solid;
+			/*border-top: 1px solid;
+			border-bottom: 1px solid;*/
 			border-color: rgba(255,255,255,.1);
 		}
 
